@@ -9,7 +9,8 @@
 
 
 5- La dernière phase de projet sera de créer un système de traduction automation, de correction d'orthographe et grammaire, et de vérification de la forme de construction des phrases rédiger en nos différentes langues. 
-## Project Goal
+
+## Project Goal (English)
 
 1- The objective of this project is to create a digital textual database for the revitalization of marginalized Cameroonian languages. This is to allow students and teachers captivated by artificial intelligence, text analysis, and language enhancement through AI to use it. Thus, it can be used in the context of a master's thesis, the teaching of Natural Language Processing in universities, and the development of applications and sophisticated translation systems. These endangered languages will be reborn from their center. This project is called Project Sueza and is an open-source project. Anyone who wishes to contribute with their knowledge of computer science, literature, and other subjects is welcome. 
 
