@@ -25,5 +25,6 @@
 
 
 [joins slack community](https://join.slack.com/t/suezaproject/shared_invite/zt-16inb8g5x-zlloXg1tMc6OyuCkIh6WHQ)
+[joins the Discord server](https://discord.gg/dkybZNCD)
 
 
