@@ -11,13 +11,13 @@
 
 4- La dernière phase de projet sera de créer un système de traduction automation, de correction d'orthographe et grammaire, et de vérification de la forme de construction des phrases rédiger en nos différentes langues. 
 
-# Objectif 1
+# Objectif 1 : Création de la base de données 
  ## Langues disponibles
   Rien pour le moment
   [Ajouter une nouvelle langue]()
 
 
-## Groupe d'Echange
+## Groupe d'echange
 
 
 [Joindre le groupe slack](https://join.slack.com/t/suezaproject/shared_invite/zt-16inb8g5x-zlloXg1tMc6OyuCkIh6WHQ)
