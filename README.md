@@ -4,7 +4,7 @@
 ## Description
 
 * [English version](https://github.com/B23579/Sueza_project/blob/main/README-en.md)
-* [Version en français ](https://github.com/B23579/Sueza_project/blob/main/README-fr.md) 
+* [Version française ](https://github.com/B23579/Sueza_project/blob/main/README-fr.md) 
 
 
 ## Community
