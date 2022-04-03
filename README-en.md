@@ -12,8 +12,26 @@
 4- To be set
 
 # Objective 1 : Textual database creation
-  ## Languages
-    [Add new language]()
+  ## Languages available
+  [Add new language]();
+ 
+ # Objetctive 2 : Build a stoping work package for each language
+  To do 
+  
+ # Objective 3: Build an annotated database of Camerounian dishes.  
+   To Do
+  # Objective 4 : Development of applications and sophisticated translation systems using ML
+  
+  # Objective 5: Sentimental analysis of text writing in Camerounian language
+  
+  # objective 6 : Topic modeling of Camerounian language writing text
+  
+  # Objective 7 : Part of speech analysis and grammar correction system
+  
+ # How to contribute 
+ 
+  # Code of conduct
+  
 
 
 ## Community
