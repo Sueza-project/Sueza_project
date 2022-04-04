@@ -60,10 +60,11 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement. Please contact 
-[Baurice Nafack](mailto:baurice.nafack@eparchemin.com),
-[Gilbert Temgoua](mailto:gilbertemgoua@gmail.com), 
-[Christian Temfac](mailto:djokenvicky@eparchemin.com) or
-[Derick Temfack](mailto:derick.temfack@eparchemin.com).
+- [Baurice Nafack](mailto:baurice.nafack@eparchemin.com),
+- [Gilbert Temgoua](mailto:gilbertemgoua@gmail.com), 
+- [Christian Temfac](mailto:djokenvicky@eparchemin.com) or
+- [Derick Temfack](mailto:derick.temfack@eparchemin.com).
+
 All complaints will be reviewed and investigated promptly and fairly as soon as
 possible.
 

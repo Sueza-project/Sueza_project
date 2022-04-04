@@ -3,9 +3,9 @@
 
 ## Project Goal
 
-1- The objective of this project is to create a digital textual database for the revitalization of Cameroonian local languages. This is to allow students and teachers captivated by artificial intelligence, text analysis, and language enhancement through AI to use it. Thus, it can be used in the context of a master's thesis, the teaching of Natural Language Processing in universities, and the development of applications and sophisticated translation systems. These endangered languages will be reborn from their center. This project is called Project Sueza and is an open-source project. Anyone who wishes to contribute with their knowledge of computer science, literature, and other subjects is welcome. 
+1- The objective of this project is to create a digital textual database for the revitalization of Cameroonian local languages. This is to allow students and teachers captivated by artificial intelligence, text analysis, and language enhancement through AI to use it. Thus, it can be used in the context of a master's thesis, the teaching of Natural Language Processing in universities, and the development of applications and sophisticated translation systems. These endangered languages will be reborn from the ashes. Baptized Project Sueza, this is an open-source project. Anyone who wishes to contribute with their knowledge of computer science, literature, or other subjects is welcome. 
 
-2- From the dataset collect, a dataset containing stoping words for a given language is going to be built. we will then construct the R/python package to perform stopping word extraction in Cameroonian language writing text. 
+2- From the dataset collected, a dataset containing stoping words for a given language is going to be built. we will then construct the R/python package to perform stopping word extraction in Cameroonian languages written texts. 
 
 3- We need to develop a database of traditional Cameroonian dishes with annotations. The annotation will be in a variety of languages to allow deep learning enthusiasts to use it to train models that can detect and identify our different dishes. 
 
@@ -15,23 +15,24 @@
   ### Languages available
   [Add new language]();
  
- ## Objetctive 2 : Build a stoping work package for each language
+ ## Objetctive 2 : Build a stopping work package for each language
   To do 
   
- ## Objective 3: Build an annotated database of Camerounian dishes.  
+ ## Objective 3: Build an annotated database of Cameroonian dishes.  
    To Do
   ## Objective 4 : Development of applications and sophisticated translation systems using ML
   
-  ## Objective 5: Sentimental analysis of text writing in Camerounian language
+  ## Objective 5: Sentimental analysis of text writing in Cameroonian languages
   
-  ## objective 6 : Topic modeling of Camerounian language writing text
+  ## objective 6 : Topic modeling of Cameroonian languages written texts
   
   ## Objective 7 : Part of speech analysis and grammar correction system
   
  ## How to contribute 
  
   ## Code of conduct
-  
+  * [English Version](https://github.com/tem-ctrl/Sueza_project/blob/main/CODE_OF_CONDUCT-en.md)
+  * [Version Française](https://github.com/tem-ctrl/Sueza_project/blob/main/CODE_OF_CONDUCT-fr.md)
 
 
 ## Community
