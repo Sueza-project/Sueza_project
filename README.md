@@ -1,10 +1,10 @@
 # Sueza project
-![fg](https://github.com/B23579/Sueza_project/blob/main/sueza.jpg)
+![fg](./images/sueza.jpg)
 
 ## Description
 
-* [English version](https://github.com/B23579/Sueza_project/blob/main/README-en.md)
-* [Version française ](https://github.com/B23579/Sueza_project/blob/main/README-fr.md) 
+* [English version](./README-en.md)
+* [Version française](./README-fr.md) 
 
 ## Contributor Covenant Code of Conduct / Code de conduite Contributor Covenant
   
