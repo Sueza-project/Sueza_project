@@ -84,9 +84,9 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 
 Congratulations :tada::tada: The GitHub team thanks you :sparkles:. 
 
-Once your PR is merged, your contributions will be publicly visible on the [GitHubs docs](https://docs.github.com/en). 
+Once your PR is merged, your contributions will be publicly visible on the [Sueza Project](https://github.com/B23579/Sueza_project). 
 
-Now that you are part of the GitHub docs community, see how else you can [contribute to the docs](/contributing/types-of-contributions.md).
+Now that you are part of the Sueza project community, see how else you can [contribute to the project](/contributing/types-of-contributions.md).
 
 ## Windows
 
