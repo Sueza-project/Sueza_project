@@ -11,7 +11,7 @@
 
 4- Create downloadable thesaurus of Cameroonian languages.
 
-5 - More to come
+5 - The last phase of the project will be to create a system for automatic translation, spelling and grammar correction, and verification of the form of construction of sentences written in our different languages.
 
 ## Objective 1 : Textual database creation
   ### Languages available
