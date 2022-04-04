@@ -1,5 +1,5 @@
 # Sueza project
-![fg](https://github.com/B23579/Sueza_project/blob/main/sueza.jpg)
+![fg](./images/sueza.jpg)
 
 ## Project Goal
 
