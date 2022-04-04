@@ -6,6 +6,10 @@
 * [English version](https://github.com/B23579/Sueza_project/blob/main/README-en.md)
 * [Version française ](https://github.com/B23579/Sueza_project/blob/main/README-fr.md) 
 
+## Contributor Covenant Code of Conduct / Code de conduite Contributor Covenant
+  
+* [English version](https://github.com/B23579/Sueza_project/blob/main/CODE_OF_CONDUCT-en.md)
+* [Version française ](https://github.com/B23579/Sueza_project/blob/main/CODE_OF_CONDUCT-fr.md) 
 
 ## Community
 
