@@ -1,6 +1,6 @@
 # Welcome to Sueza project contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [docs.github.com](https://github.com/B23579/Sueza_project) :sparkles:. 
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [github.com/B23579/Sueza_project](https://github.com/B23579/Sueza_project) :sparkles:. 
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT-en.md) to keep our community approachable and respectable.
 
@@ -10,7 +10,7 @@ Use the table of contents icon <img src="./images/table-of-contents.png" width="
 
 ## New contributor guide
 
-To get an overview of the project, read the [README](README.md). Here are some resources to help you get started with open source contributions:
+To get an overview of the project, read the [README](README.md) file. Here are some resources to help you get started with open source contributions:
 
 - [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
 - [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
@@ -18,21 +18,21 @@ To get an overview of the project, read the [README](README.md). Here are some r
 - [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
 
-## Getting started
+<!--- ## Getting started
 
 To navigate our codebase with confidence, see [the introduction to working in the docs repository](/contributing/working-in-docs-repository.md) :confetti_ball:. For more information on how we write our markdown files, see [the GitHub Markdown reference](contributing/content-markup-reference.md).
 
-Check to see what [types of contributions](/contributing/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code :sparkles:.
+Check to see what [types of contributions](/contributing/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code :sparkles:. -->
 
 ### Issues
 
 #### Create a new issue
 
-If you spot a problem with the docs, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/github/docs/issues/new/choose). 
+If you spot a problem with a part of the project, [search if an issue already exists](https://github.com/B23579/Sueza_project/issues). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/B23579/Sueza_project/issues/new). 
 
 #### Solve an issue
 
-Scan through our [existing issues](https://github.com/github/docs/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See [Labels](/contributing/how-to-use-labels.md) for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
+Scan through our [existing issues](https://github.com/B23579/Sueza_project/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See [Labels](/contributing/how-to-use-labels.md) for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
 
 ### Make Changes
 
