@@ -31,7 +31,8 @@
  ## How to contribute 
  
   ## Code of conduct
-  
+  * [English Version](https://github.com/tem-ctrl/Sueza_project/blob/main/CODE_OF_CONDUCT-en.md)
+  * [Version Française](https://github.com/tem-ctrl/Sueza_project/blob/main/CODE_OF_CONDUCT-fr.md)
 
 
 ## Community
