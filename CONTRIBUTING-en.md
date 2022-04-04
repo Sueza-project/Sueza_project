@@ -43,9 +43,9 @@ Click **Make a contribution** at the bottom of any docs page to make small chang
 
  <img src="./assets/images/contribution_cta.png" width="300" height="150" /> 
 
-#### Make changes in a codespace
+<!--- #### Make changes in a codespace
 
-For more information about using a codespace for working on GitHub documentation, see "[Working in a codespace](https://github.com/github/docs/blob/main/contributing/codespace.md)."
+For more information about using a codespace for working on GitHub documentation, see "[Working in a codespace](https://github.com/github/docs/blob/main/contributing/codespace.md)." --->
 
 #### Make changes locally
 
@@ -59,9 +59,9 @@ For more information about using a codespace for working on GitHub documentation
 - Using the command line:
   - [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) so that you can make your changes without affecting the original project until you're ready to merge them.
 
-3. Install or update to **Node.js v16**. For more information, see [the development guide](contributing/development.md).
+<!--- 3. Install or update to **Node.js v16**. For more information, see [the development guide](contributing/development.md). --->
 
-4. Create a working branch and start with your changes!
+3. Create a working branch and start with your changes!
 
 ### Commit your update
 
