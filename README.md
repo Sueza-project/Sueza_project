@@ -6,7 +6,7 @@
 * [English version](./README-en.md)
 * [Version française](./README-fr.md) 
 
-## Contributor Covenant Code of Conduct / Code de conduite Contributor Covenant
+## Contributor Covenant Code of Conduct / Code de conduite Contributeurs
   
 * [English version](https://github.com/B23579/Sueza_project/blob/main/CODE_OF_CONDUCT-en.md)
 * [Version française ](https://github.com/B23579/Sueza_project/blob/main/CODE_OF_CONDUCT-fr.md) 
