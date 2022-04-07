@@ -30,7 +30,15 @@
   
   ## Objective 7 : Part of speech analysis and grammar correction system
   
- ## How to contribute 
+  ## Objective 7: Speech Analytics and Recognition
+  
+  With speech analytics and recognition, we hope to create an application for learning Cameroonian languages.
+  > To do
+
+  
+ ## How to contribute
+ 
+  [contribute](https://github.com/B23579/Sueza_project/blob/main/CONTRIBUTING-en.md)
  
   ## Code of conduct
   * [English Version](https://github.com/tem-ctrl/Sueza_project/blob/main/CODE_OF_CONDUCT-en.md)
