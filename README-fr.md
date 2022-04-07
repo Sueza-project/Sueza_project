@@ -13,12 +13,29 @@
 5- La dernière phase de projet sera de créer un système de traduction automatique, de correction d'orthographe et grammaire, et de vérification de la forme de construction des phrases rédigées dans nos différentes langues. 
 
 
-# Objectif 1 : Création de la base de données 
+
+## Objectif 1 : Création de la base de données 
  ## Langues disponibles
   Rien pour le moment
   [Ajouter une nouvelle langue]()
-
-
+  
+ ## Objectif 2 : Construire un package d'extraction des connecteurs logiques
+ 
+ ## Objectif 3: Construire une base de données annotée des plats camerounais.
+ 
+ ## Objectif 4: Développement d'applications et de systèmes de traduction sophistiqués utilisant la ML
+ ## Objectif 5: Analyse sentimentale de l'écriture de textes en langues camerounaises
+ 
+ ## Objectif 6: Modélisation thématique des textes écrits en langues camerounaises.
+ 
+ ## Objectif 7 : Système d'analyse de la parole et de correction de la grammaire
+ 
+ ## Objectif 8 : Analyse et reconnaissance de la parole
+ Avec l'analyse et la reconnaissance de la parole, nous espérons créer une application pour apprendre les langues camerounaises.
+ 
+ ## Comment contibuer 
+ [Procedure de contribution](https://github.com/B23579/Sueza_project/blob/main/CONTRIBUTING-en.md)
+ 
 ## Groupe d'echange
 
 
