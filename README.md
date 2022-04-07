@@ -11,14 +11,14 @@
 * [English version](https://github.com/B23579/Sueza_project/blob/main/CODE_OF_CONDUCT-en.md)
 * [Version française ](https://github.com/B23579/Sueza_project/blob/main/CODE_OF_CONDUCT-fr.md) 
 *
-## How to contribute 
+## How to Contribute 
 [Process to contribute](https://github.com/B23579/Sueza_project/blob/main/CONTRIBUTING-en.md)
 
 ## Structure of Data File
     .  
     ├── ...
-    ├── Data                    # Test files (alternatively `spec` or `tests`)
-    │   ├── Language_name          # Load and stress tests
+    ├── Data                    
+    │   ├── Language_name          
     │     ├── Corpus         # File contaning the corpus database for Language_name
     │     └── Audio      # database of Language_name words pronunciation in audio format. 
     |     
@@ -32,5 +32,6 @@
 
 
 [joins the Discord server](https://discord.gg/dkybZNCD)
+
 
 
