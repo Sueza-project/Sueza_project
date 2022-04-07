@@ -24,6 +24,17 @@
     |     
     └── ...
     
+ ### Documentation files
+
+    .
+    ├── ...
+    ├── corpus                    # Documentation files (alternatively `doc`)
+    │   ├── language_name_1.text              
+    │   ├── language_name_2.text             
+    │   ├── language_name_2.text           
+    │   ├── language_name_i.text           
+    │   └── ...                 # etc.
+    └── ...
 
 ## Community
 
