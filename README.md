@@ -15,7 +15,7 @@
 [Process to contribute](https://github.com/B23579/Sueza_project/blob/main/CONTRIBUTING-en.md)
 
 ## Structure of Data File
-  .
+  `.
     ├── ...
     ├── Data                    # Test files (alternatively `spec` or `tests`)
     │   ├── Language_name          # Load and stress tests
@@ -23,6 +23,7 @@
     │     └── Audio      # database of Language_name words pronunciation in audio format. 
     |     
     └── ...
+    `
 
 ## Community
 
