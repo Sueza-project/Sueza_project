@@ -1,5 +1,5 @@
 # Sueza project
-![fg](./images/sueza.jpg) ![t]<img src="https://github.com/B23579/Sueza_project/blob/main/word_cloud/Bassa.png" width="380" height="380">
+![fg](./images/sueza.jpg) <img src="https://github.com/B23579/Sueza_project/blob/main/word_cloud/Bassa.png" width="370" height="370">
 
 ## Description
 
