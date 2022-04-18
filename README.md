@@ -36,6 +36,10 @@
     │   └── ...                 # etc.
     └── ...
 
+ ### Number of Word Collected per Language
+ 
+<img src="https://github.com/B23579/Sueza_project/blob/main/images/nombre%20de%20mots%20enregistrer.png" width="360" height="360">
+
 ## Community
 
 
